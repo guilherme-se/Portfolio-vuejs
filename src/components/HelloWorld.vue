@@ -6,7 +6,7 @@
           <h2>Guilherme Santos</h2>
           <h4 class="destak">Desenvolvedor Back-end</h4>
             <div class="icons">
-              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <a href="https://github.com/guilherme-se" target="_blank"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <rect width="40" height="40" fill="url(#pattern6)"/>
                 <defs>
                 <pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
@@ -14,9 +14,9 @@
                 </pattern>
                 <image id="image0_1_43" width="100" height="100" xlink:href="data:image/png;base64,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"/>
                 </defs>
-                </svg>
+                </svg></a>
 
-                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <a href="https://www.linkedin.com/in/guilherme-santos-espindula/" target="_blank"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <rect width="40" height="40" fill="url(#pattern7)"/>
                 <defs>
                 <pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
@@ -24,9 +24,9 @@
                 </pattern>
                 <image id="image0_1_45" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAABHVJREFUeJztnU2IXjUUhp9M1UpV1MoUxIJ/VSsulFbQUXChG0XBGXTRjQu3ikWRasVZq7UbQUToQgRBEARn3Cku3AiKPyiUgrRawUFBRUEqpcrM6yJXQZn5bpKb3Mn97nngg1mcnHOSl0ySm9wbMAzDMAzDMAzD6BeXUkjSOcACcD+wB9gJnJcxryHyB7ACfAEsAUvOuT9jnUQLIukB4EXgqtiyI+Mb4IBz7p2YQsGCSNoCHAKejExs7BwGDjrn1kKMz4pwbGKkcQAQ8HSIcVAPaf5Nvd0hKQMWnHNLbUatgjQD+DHg6hxZjZiTwO62gX4mwNECJkYOrsTPSicSIsh891yMhiyC7M2QiOG5uc0gRJBLMyRieC5rMwgZ1JUnFwPAOTexzUN6iNEjJkhlmCCVYYJUhglSGX0Icgx4BLgW2Nb8rgMeA473EH9QlJ72vgo8vtHzG0nnAkeAhzrEGBRt096SgrwH3OOcm1i+2Wf5CLglMc6g2Mx1yAttYgA451aB5wrmMShK9pALnHOnQgwlXQz8mhhnUGxmD9kSYRu0vTkGSgpye4TtXLEsBkZJQRabAXsikmaAZwrmMShKCjIHvCFp20YGkrbip713FMxjUPTx+P0k8DLwfvM3wOXAncB+/IJxNGzmOsRYB9sPGRgmSGWYIJVhglSGCVIZMYeto2ibTfyfjWZzufwAR4EPgA+BE8AvzW87MIs/onMXcDdwY0zMXlEiueJ09LMm6U1Jt0b62C3pdUmrqfXPVZ+2ChYLXMDPV5I67bFIuk3Sd6ltkKM+kypYNHBmP6/J70Z2RtIlkj5JbYeu9VkvoV4CZ/TzkqSkdycn+LxQ0tHUtoipT7FHJ5s4qM+Evj4W6XcX8CUdX24d3aOTEmI0fk8AiyV8/ydOm8HQekhJ5N8m+xq4ItXH6HpISZrjTK8UjdFmMC09RH6jbNU5d6ajn1ngR+LODPzLqHuIpDlJb0n6Df+lhdOSViQdkXRDik/n3M/Ax1kTjaHU9C40Toe8FzV5pX1G0qOJvp/vq13WC95L4JwVkPRwYJprkvYl+H+wVLtM3Rgi6SL8d0a2Bxb5CbjGOfd7RIw9wOcxef3DGMeQfYSLAbCjKRPDSqR9MNMoyL0JZe6LtA86IpvCNAqSspdxU6T96YQYQUyjIDsSyszGGIec6k9lGgXZmlAmy6P6HEyjIIPGBKkME6QyTJDKMEEqwwSpDBOkMkyQyjBBKsMEqQwTpDJMkMowQSrDBKkME6QyTJDKMEEqwwSpDBOkMuxbJz0zxoNyg8YEqQwTpDJCBCl2bHKEtB7oDhHkhwyJGJ7WtgwR5LMMiRieT9sMQgRZzpCI4Xm3zSBkHXI2/oaDXTkyGjHfAtd3vljSOfcX8FSurEaKgCdCrvMOmvY2V1Af7prViDnknGv9dwVx65CD+HvUjXCEv2X72dACKRfcz+N7i40pkzmOv+A+alKU9JWEZqCfx9/tuhfYCZyf4muKOAV8j387dxlYbsZfwzAMwzAMwzCMqvkbesIo6OuoO2QAAAAASUVORK5CYII="/>
                 </defs>
-                </svg>
+                </svg></a>
 
-                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <a href="mailto:guilhermesantosespind@gmail.com"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <rect width="40" height="40" fill="url(#pattern8)"/>
                 <defs>
                 <pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
@@ -34,12 +34,12 @@
                 </pattern>
                 <image id="image0_1_47" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAABQNJREFUeJzt29+LVGUcx/H3NyuNxShKCwpSKOgH1UUEFVpum9VCGmhRRD+o7KbUiAT7E5JIxFKiMogyMlQwZYONylWzoLoooi4K2YuChQKjlOyHfbo4s7jKnGeeM+fMzHNmvy/wZuc7zzyez8yccz6u4JxzzjnnnHPOOeecc84555xzzrlmrNWApHnAh8Clnd9OXxsHbjezH0JDp7VaxczGgYXANxVtbDr6HljYKgyICATAzCaARcBnJTc2HX0F3GxmP8UMRwUCYGaHgcVkX18uzhhwq5n9GvuEkwKRtCA0bGZHgaXArra2N73sAu40s99DQ6ce81M/IaslbZKU+8kxs2PAcuCNdnc6DbwD3Ns4Vk1JMknrgdVTf97swD8JvCXpjLzFzOw4sAJY395++9pm4CEz+ydvQNIM4HXgmVMfy/skPADslHRW3qJmJjN7Fniu2H772joze8rM/ssbkDQT2AY81uzx0En9LuADSWeHdmBm64CVQO4mpgEBa8ws+OaUNADsJvvKb6rVVdYtwMeSzg8Nmdkm4BHg3xbr9aPjwBNm9mJoSNK5ZFeoi0NzMZe91wH7JF0cGjKzt4FlQO6JrA/9DdxvZltCQ5IuBPYCN7ZaMPY+5ArggKTLQkNmthsYBv6IXLfOjgJLzGx7aEjSfGA/cE3MotE3hsAlwH5J14aGzGwvMARE3wzV0G9kvdRoaEjSlWRhRPeARQIBuADYK+mm0JCZfUF2/vm54Pp1MAEsMrODoSFJ15PdqV9UZPGigQCcA4xKuiM0ZGbfAQuAH9t4jVSNk/VSX4eGJA0CHwHBi6Fm2gkEYAB4X9I9oaE+a4qjGltJS4ERYHY7L9JuIABnAu9Kejw01CdN8ZdENLaSHgR2ALPafaEygQDMAF6TtCY0VPOmeAwYatXYSloJvAmcXubFygYC2b86viDp+eBQ1hQvIXsH1cUeYDiisV0LvEQFx7OKQCatjWiK/wLuox5N8VZgmZn9mTcwpbENvhmLqDIQ6J+meDPwcLuNbRlVBwL1b4pjG9v3yGlsy+hEIFDPprhoY7usE5voVCBwoimeExpKpCmutLEto5OBQNYUjyXeFBdpbMeIaGzL6HQgkHZTXLSxvbrTG+pGIJBmU3yYDjW2ZXQrEEirKZ4ABiMb230UbGzL6GYgkEZTXLSxPa8De8jV7UCgt01xVxrbMnoRCJxoileEhipuirvW2JbRq0Aga4pf7VJT3NXGtoxeBgLdaYp30+XGtoxeBzKpU03xVmB5txvbMlIJBKpvimMb2y1U3NiWkVIgkDXF2yXlnlCnNMWrgCNNRo4AqyIa21nATuDRknuuVM9OXgFLgRFJd5tZbo1iZi9L2kb2e7JXNX78LbAj4uQ9m+z/bwxWtOfKpBgIZAfqE0nDZvZL3lDjsVeKLNxobEeAG8ptsTNS+8qaKqopLmJKY5tkGJB2IJA1xfsklS72GmscpAuNbRmpBwIwH/hc0nC7C0gaAj5trJW0OgQCWcG3R9IGSXNjnyRprqQNwCgQ/bxeqksgkO31aeCQpI2Sbmv8ssFJJM1sPLYRONR4Tm3+nqleZYUMkN2DrAKOSRoHJq/E5gDz6FExWIU6BjLVLODyxp++UJuP8nThgSTGA0mMB5IYDyQxHkhiPJDEeCCJ8UAS44EkxgNJjAeSGA8kMR5IYjwQ55xzzjnnnHPOOeecc84555xzztXC/x5LBEtitN7TAAAAAElFTkSuQmCC"/>
                 </defs>
-                </svg>
+                </svg></a>
             </div>
       </div>
       <div class="content">
         <h4 class="destak">Sobre</h4>
-        <p>Hello, my name is Guilherme Santos, and I´m a Back-end developer and Computer Science Student based in Rio Grande do Sul - Brasil.</p>
+        <p> 👋 Hello, my name is Guilherme Santos and I´m a Back-end developer and Computer Science Student based in Rio Grande do Sul - Brasil.</p>
         <br>
         <h4 class="destak">Tecnologias</h4>
           <div class="icons">
@@ -109,12 +109,17 @@
             </svg>
           </div>
       </div>
-      <div class="button"></div>
     </div>
   </div>
 </template>
 
 <style>
+
+p{
+  font-weight: 400;
+  font-size: 17px
+}
+
 .portfolio {
   display: flex;
   justify-content: center;
@@ -131,18 +136,11 @@
   display: flex;
 }
 
-.button{
-  width: 50px;
-  height: 20px;
-  background-color: red;
-  display: flex;
-  justify-content: flex-end;
-  
-}
-
 .destak{
+  font-weight:bold;
   color: #BC92F7;
-  line-height: 22px;
+  line-height: 30px;
+  font-size: 16px;
   margin-bottom: 20px;
 }
 
