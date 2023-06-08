@@ -172,5 +172,32 @@ p{
   width: 50%;
 }
 
+@media (max-width: 768px) {
+  .card{
+    display: block;
+    width: 100%;
+    height: 80%;
+  }
+
+  .photo{
+    display: block;
+    margin: 0 auto;
+  }
+
+  .portfolio{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .content{
+    width: 100%;
+  }
+
+
+  }
+
 
 </style>
