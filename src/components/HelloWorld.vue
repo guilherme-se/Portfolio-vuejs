@@ -128,7 +128,7 @@ p{
 }
 
 .card {
-  background-color: #282A36;
+  background-color: #3b788a;
   color: white;
   border-radius: 20px;
   width: 800px;
@@ -138,10 +138,10 @@ p{
 
 .destak{
   font-weight:bold;
-  color: #BC92F7;
+  color: white;
   line-height: 30px;
   font-size: 16px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .icons{
@@ -173,10 +173,16 @@ p{
 }
 
 @media (max-width: 768px) {
+
+  body{
+    width: 100%;
+    height: 100%;
+  }
+
   .card{
     display: block;
     width: 100%;
-    height: 80%;
+    height: 100%;
   }
 
   .photo{
@@ -185,11 +191,12 @@ p{
   }
 
   .portfolio{
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
+    height: 100%;
   }
 
   .content{
