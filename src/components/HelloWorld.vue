@@ -4,7 +4,7 @@
       <div class="photo">
         <img src="https://media.licdn.com/dms/image/D4D03AQGa3Oa8-92X5g/profile-displayphoto-shrink_400_400/0/1673660575017?e=1689206400&v=beta&t=DHYt8JsIwNtAFwLofPIFMhaHsKCK72saVEw7qkhoj1U" alt="Foto">
           <h2>Guilherme Santos</h2>
-          <h4 class="destak">Desenvolvedor Back-end</h4>
+          <h4 class="destak">Desenvolvedor Backend</h4>
             <div class="icons">
               <a href="https://github.com/guilherme-se" target="_blank"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <rect width="40" height="40" fill="url(#pattern6)"/>
@@ -38,10 +38,10 @@
             </div>
       </div>
       <div class="content">
-        <h4 class="destak">Sobre</h4>
-        <p> 👋 Hello, my name is Guilherme Santos and I´m a Back-end developer and Computer Science Student based in Rio Grande do Sul - Brasil.</p>
+        <h3 class="destak">Sobre</h3>
+        <p> 👋 Ola, meu nome é Guilherme Santos Estudante de Ciência da Computação e Desenvolvedor Backend. Experiência em projetos desafiadores com habilidades em Java, SpringBoot, Python e WebScrapy. Foco em soluções eficientes e escaláveis. Motivado, autodidata, analítico e colaborativo. Em busca de oportunidades inovadoras. 👩‍💻</p>
         <br>
-        <h4 class="destak">Tecnologias</h4>
+        <h3 class="destak">Tecnologias</h3>
           <div class="icons">
             <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <rect width="60" height="60" fill="url(#pattern0)"/>
@@ -116,8 +116,7 @@
 <style>
 
 p{
-  font-weight: 400;
-  font-size: 17px
+  font-weight: 500;
 }
 
 .portfolio {
@@ -128,10 +127,10 @@ p{
 }
 
 .card {
-  background-color: #3b788a;
-  color: white;
+  background-color: #4F709C;
+  color: #E4DCCF;
   border-radius: 20px;
-  width: 800px;
+  width: 820px;
   padding: 20px;
   display: flex;
 }
@@ -139,8 +138,6 @@ p{
 .destak{
   font-weight:bold;
   color: white;
-  line-height: 30px;
-  font-size: 16px;
   margin-bottom: 10px;
 }
 
