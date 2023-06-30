@@ -39,7 +39,7 @@
       </div>
       <div class="content">
         <h3 class="destak">Sobre</h3>
-        <p> 👋 Ola, meu nome é Guilherme Santos Estudante de Ciência da Computação e Desenvolvedor Backend. Experiência em projetos desafiadores com habilidades em Java, SpringBoot, Python e WebScrapy. Foco em soluções eficientes e escaláveis. Motivado, autodidata, analítico e colaborativo. Em busca de oportunidades inovadoras. 👩‍💻</p>
+        <p> 👋 Ola, meu nome é Guilherme Santos Estudante de Ciência da Computação, com experiência em projetos Java, Python e WebScrapy.<br> Focando em soluções eficientes e escaláveis. Motivado, autodidata, analítico e colaborativo.<br> Em busca de oportunidades desafiadoras. 👩‍💻</p>
         <br>
         <h3 class="destak">Tecnologias</h3>
           <div class="icons">
@@ -130,7 +130,7 @@ p{
   background-color: #4F709C;
   color: #E4DCCF;
   border-radius: 20px;
-  width: 820px;
+  width: 800px;
   padding: 20px;
   display: flex;
 }
@@ -147,14 +147,12 @@ p{
 }
 
 .content{
-  /* background-color: green; */
   display: block;
   margin: 0 auto;
   width: 100%;
 }
 
 .photo {
-  /* background-color: red; */
   width: 250px;
 }
 
@@ -163,6 +161,7 @@ p{
   height: 140px;
   max-width: 100%;
   border-radius: 100%;
+  border: 4px solid #dde7f0;
 }
 
 .content {
@@ -188,7 +187,6 @@ p{
   }
 
   .portfolio{
-    /* background-color: red; */
     display: flex;
     justify-content: center;
     align-items: center;
